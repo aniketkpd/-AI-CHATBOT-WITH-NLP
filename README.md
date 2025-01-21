@@ -61,4 +61,6 @@ The output of this project is a functional chatbot that interacts with users bas
 
 This chatbot serves as a basic example of NLP in action, demonstrating how natural language can be processed and understood by machines, even in simple use cases like this
 
-# OUTPUT
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/a794b09d-ca64-443c-aec7-f27d25f97981)
