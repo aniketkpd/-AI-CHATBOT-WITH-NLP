@@ -32,11 +32,11 @@ The chatbot uses pattern matching to identify user queries and provide appropria
 - **Reflections**: A feature of NLTK to handle simple input-output mappings (e.g., replacing “I” with “You”).
 
 **Explanation of Code:**
-The chatbot uses a list called `pairs` that contains patterns (regular expressions) and corresponding responses. These pairs define how the chatbot should react to user inputs. If the user inputs a query that matches one of the patterns, the chatbot will respond with one of the predefined responses.
+The chatbot uses a list called pairs that contains patterns (regular expressions) and corresponding responses. These pairs define how the chatbot should react to user inputs. If the user inputs a query that matches one of the patterns, the chatbot will respond with one of the predefined responses.
 
 Here’s how the key parts of the code work:
 - **Patterns and Responses**: Each pattern matches a particular type of user input. The chatbot responds based on these patterns. For example, if the user types "hi" or "hello", the bot will greet them with one of the responses like "Hi there" or "Hi, how can I help?"
-- **The Chat Class**: The `Chat` class from NLTK is used to initialize the chatbot with the patterns and responses. It processes user input and returns the appropriate response.
+- **The Chat Class**: The Chat class from NLTK is used to initialize the chatbot with the patterns and responses. It processes user input and returns the appropriate response.
 - **User Interaction**: The chatbot runs in a continuous loop until the user types "quit". During the conversation, it listens for user inputs, checks for matches with predefined patterns, and responds accordingly.
 
 **Sample Interactions:**
