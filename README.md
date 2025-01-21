@@ -51,7 +51,7 @@ Here’s how the key parts of the code work:
 The output of this project is a functional chatbot that interacts with users based on predefined patterns. The chatbot responds with simple, meaningful answers to a set of queries. It can continue the conversation until the user types "quit", upon which the chatbot says goodbye and exits.
 
 **Resources Used:**
-- **NLTK Documentation**: The official documentation helped understand how to use the `Chat` class and regular expressions for building a conversational chatbot.
+- **NLTK Documentation**: The official documentation helped understand how to use the Chat class and regular expressions for building a conversational chatbot.
 - **W3Schools**: Provided a solid understanding of Python basics and regular expressions.
 - **YouTube Tutorials**: These were useful for learning how to integrate NLP techniques into building interactive chatbots.
 - **ChatGPT**: For helping understand how and why things works this way, for clarity.
