@@ -11,11 +11,8 @@ BATCH DURATION : January 10th, 2025 to April 10th, 2025
 **MENTOR NAME** : Neela Santhosh
 
 # DESCRIPTION OF PROJECT
-Here's the project description for your **AI Chatbot with NLP**:
 
----
-
-### Project Title: **AI Chatbot with NLP**
+Project Title: **AI Chatbot with NLP**
 
 **Overview:**
 This project demonstrates the creation of an AI chatbot using Natural Language Processing (NLP) techniques with the NLTK (Natural Language Toolkit) library in Python. The chatbot can respond to basic queries and carry on conversations with the user. It is capable of answering simple questions about itself and providing predefined responses based on user inputs. This project highlights how NLP can be used to make a bot understand and respond to user queries in a meaningful way.
@@ -57,9 +54,9 @@ The output of this project is a functional chatbot that interacts with users bas
 - **NLTK Documentation**: The official documentation helped understand how to use the `Chat` class and regular expressions for building a conversational chatbot.
 - **W3Schools**: Provided a solid understanding of Python basics and regular expressions.
 - **YouTube Tutorials**: These were useful for learning how to integrate NLP techniques into building interactive chatbots.
-- **ChatGPT**:For helping understand how and why things works this way, for clarity.
+- **ChatGPT**: For helping understand how and why things works this way, for clarity.
 
-This chatbot serves as a basic example of NLP in action, demonstrating how natural language can be processed and understood by machines, even in simple use cases like this
+This chatbot serves as a basic example of NLP in action, demonstrating how natural language can be processed and understood by machines, even in simple use cases.
 
 # OUTPUT OF THE TASK
 
